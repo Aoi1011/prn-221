@@ -1,0 +1,15 @@
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.csproj.AssemblyReference.cache
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.AssemblyInfoInputs.cache
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.AssemblyInfo.cs
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.csproj.CoreCompileInputs.cache
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/bin/Debug/net6.0/task-demonstration-03
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/bin/Debug/net6.0/task-demonstration-03.deps.json
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/bin/Debug/net6.0/task-demonstration-03.runtimeconfig.json
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/bin/Debug/net6.0/task-demonstration-03.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/bin/Debug/net6.0/ref/task-demonstration-03.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/bin/Debug/net6.0/task-demonstration-03.pdb
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/ref/task-demonstration-03.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.pdb
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-03/obj/Debug/net6.0/task-demonstration-03.genruntimeconfig.cache
