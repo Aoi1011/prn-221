@@ -1,0 +1,15 @@
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.csproj.AssemblyReference.cache
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.AssemblyInfoInputs.cache
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.AssemblyInfo.cs
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.csproj.CoreCompileInputs.cache
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/bin/Debug/net6.0/plinq-demonstration-02
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/bin/Debug/net6.0/plinq-demonstration-02.deps.json
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/bin/Debug/net6.0/plinq-demonstration-02.runtimeconfig.json
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/bin/Debug/net6.0/plinq-demonstration-02.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/bin/Debug/net6.0/ref/plinq-demonstration-02.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/bin/Debug/net6.0/plinq-demonstration-02.pdb
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/ref/plinq-demonstration-02.dll
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.pdb
+/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/Debug/net6.0/plinq-demonstration-02.genruntimeconfig.cache
