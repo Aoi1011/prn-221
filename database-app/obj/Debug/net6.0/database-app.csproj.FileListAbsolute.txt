@@ -1,0 +1,15 @@
+/Volumes/External/Rust/prn-221/database-app/bin/Debug/net6.0/database-app
+/Volumes/External/Rust/prn-221/database-app/bin/Debug/net6.0/database-app.deps.json
+/Volumes/External/Rust/prn-221/database-app/bin/Debug/net6.0/database-app.runtimeconfig.json
+/Volumes/External/Rust/prn-221/database-app/bin/Debug/net6.0/database-app.dll
+/Volumes/External/Rust/prn-221/database-app/bin/Debug/net6.0/ref/database-app.dll
+/Volumes/External/Rust/prn-221/database-app/bin/Debug/net6.0/database-app.pdb
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.csproj.AssemblyReference.cache
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.AssemblyInfoInputs.cache
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.AssemblyInfo.cs
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.csproj.CoreCompileInputs.cache
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.dll
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/ref/database-app.dll
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.pdb
+/Volumes/External/Rust/prn-221/database-app/obj/Debug/net6.0/database-app.genruntimeconfig.cache
