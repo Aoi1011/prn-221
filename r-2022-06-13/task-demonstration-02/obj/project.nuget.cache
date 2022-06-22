@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68kqe+nsB3dp5oQhS4J+lObzqiVPcIgHMHXNNxC2vMaDZbtThNTNeyoYrdlcFCHIhE162VOAFGYkRL35uXkg5Q==",
+  "dgSpecHash": "3zBaqiPF8HBSyzOsJ+GOpKkr+s6bagyRWrJmVXTQrL1UVKWHGqhME8i4NCByEGjQTLDZ1z2V7DbbPINJ5apqUg==",
   "success": true,
-  "projectFilePath": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-02/task-demonstration-02.csproj",
+  "projectFilePath": "/Volumes/External/Rust/prn-221/r-2022-06-13/task-demonstration-02/task-demonstration-02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

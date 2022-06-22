@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/plinq-demonstration-02.csproj",
+      "projectUniqueName": "/Volumes/External/Rust/prn-221/r-2022-06-13/plinq-demonstration-02/plinq-demonstration-02.csproj",
       "projectName": "plinq-demonstration-02",
-      "projectPath": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/plinq-demonstration-02.csproj",
+      "projectPath": "/Volumes/External/Rust/prn-221/r-2022-06-13/plinq-demonstration-02/plinq-demonstration-02.csproj",
       "packagesPath": "/Users/aoikurokawa/.nuget/packages/",
-      "outputPath": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/plinq-demonstration-02/obj/",
+      "outputPath": "/Volumes/External/Rust/prn-221/r-2022-06-13/plinq-demonstration-02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aoikurokawa/.nuget/NuGet/NuGet.Config"

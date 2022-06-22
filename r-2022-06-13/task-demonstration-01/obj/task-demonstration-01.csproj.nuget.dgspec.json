@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-01/task-demonstration-01.csproj": {}
+    "/Volumes/External/Rust/prn-221/r-2022-06-13/task-demonstration-01/task-demonstration-01.csproj": {}
   },
   "projects": {
-    "/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-01/task-demonstration-01.csproj": {
+    "/Volumes/External/Rust/prn-221/r-2022-06-13/task-demonstration-01/task-demonstration-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-01/task-demonstration-01.csproj",
+        "projectUniqueName": "/Volumes/External/Rust/prn-221/r-2022-06-13/task-demonstration-01/task-demonstration-01.csproj",
         "projectName": "task-demonstration-01",
-        "projectPath": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-01/task-demonstration-01.csproj",
+        "projectPath": "/Volumes/External/Rust/prn-221/r-2022-06-13/task-demonstration-01/task-demonstration-01.csproj",
         "packagesPath": "/Users/aoikurokawa/.nuget/packages/",
-        "outputPath": "/Volumes/External/Rust/prn-221/r-2022-0.6-13/task-demonstration-01/obj/",
+        "outputPath": "/Volumes/External/Rust/prn-221/r-2022-06-13/task-demonstration-01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aoikurokawa/.nuget/NuGet/NuGet.Config"
