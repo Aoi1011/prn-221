@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y/AzqgLpSSQ2ayQLUc0EgfrHrz3QHWc49zo97Ig4VCgGQMGrkXJsM47LWfsfUGhBA+9kwobCnb1WgicV6VOxg==",
+  "success": true,
+  "projectFilePath": "/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/single-responsibility-principle-demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/aoikurokawa/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

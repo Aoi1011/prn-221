@@ -1,0 +1,5 @@
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.csproj.AssemblyReference.cache
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.AssemblyInfoInputs.cache
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.AssemblyInfo.cs
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.csproj.CoreCompileInputs.cache
