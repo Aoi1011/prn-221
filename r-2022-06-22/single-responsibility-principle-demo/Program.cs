@@ -8,7 +8,7 @@ class Program
     {
         Console.WriteLine("List of Books");
         Console.WriteLine("-------------");
-        var cadJson = File.ReadAllText("Data/BookStore.json");
+        var cadJson = File.ReadAllText("Data/BookStore_01.json");
         var bookList = JsonConvert.DeserializeObject<Book[]>(cadJson);
         foreach (var item in bookList)
         {

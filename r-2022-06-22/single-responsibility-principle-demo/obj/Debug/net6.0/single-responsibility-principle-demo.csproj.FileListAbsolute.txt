@@ -3,3 +3,15 @@
 /Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.AssemblyInfoInputs.cache
 /Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.AssemblyInfo.cs
 /Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.csproj.CoreCompileInputs.cache
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/single-responsibility-principle-demo
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/single-responsibility-principle-demo.deps.json
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/single-responsibility-principle-demo.runtimeconfig.json
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/single-responsibility-principle-demo.dll
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/ref/single-responsibility-principle-demo.dll
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/single-responsibility-principle-demo.pdb
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.csproj.CopyComplete
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.dll
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/ref/single-responsibility-principle-demo.dll
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.pdb
+/Volumes/External/Rust/prn-221/r-2022-06-22/single-responsibility-principle-demo/obj/Debug/net6.0/single-responsibility-principle-demo.genruntimeconfig.cache
