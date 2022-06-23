@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  postgressql_database: 
+    image: postgres:latest
+    environment: 
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=SampleDatabase
+    ports: 
+      - "5432:5432"
+    restart: "unless-stopped"
+    volumes: 
+      - database-data:/var/lib/postgressql/data/
+
+volumes: 
+  database-data:
