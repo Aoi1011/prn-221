@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+n5ir6Ai/TRFUR1/+JCbj3nWFMhX441W5LtiFgjMnIQkP5ogiWZp017He/nqJ/vxNT4L4fOgOpSsytofHEK02Q==",
+  "success": true,
+  "projectFilePath": "/Volumes/External/Rust/prn-221/order-management2/order-management2.csproj",
+  "expectedPackageFiles": [
+    "/Users/aoikurokawa/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/aoikurokawa/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/aoikurokawa/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/aoikurokawa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/aoikurokawa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/aoikurokawa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
