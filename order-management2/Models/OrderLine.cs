@@ -1,4 +1,4 @@
-namespace order_management.Models
+namespace order_management2.Models
 {
     public class OrderLine
     {
