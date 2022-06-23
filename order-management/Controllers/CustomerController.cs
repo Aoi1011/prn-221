@@ -11,7 +11,7 @@ namespace order_management.Controllers;
 public class CustomerController : ControllerBase
 {
     [HttpPost]
-    public static async void InsertCustomer()
+    public static async void InsertCustomer(int id, string name, string address, string city, string postal_code)
     {
         var connString = "Host=postgressql_database;Username=admin;Password=admin;Database=SampleDatabase";
         var command = "INSERT INTO customer (customer_id, customer_name, customer_address, city, state, postal_code) VALUES (@p)";
@@ -19,10 +19,24 @@ public class CustomerController : ControllerBase
         await using var conn = new NpgsqlConnection(connString);
         await conn.OpenAsync();
 
-        // Insert some data
-        await using (var cmd = new NpgsqlCommand("INSERT INTO customer (customer_id, customer_name, ) VALUES (@p)", conn))
+        var customer = new Customer {
+            CustomerId: id,
+
+    CustomerName
+
+    public int CustomerAddress { get; set; }
+
+    public int City { get; set; }
+
+    public int State { get; set; }
+
+    public int Postal_Code { get; set; }
+};
+
+// Insert some data
+await using (var cmd = new NpgsqlCommand(command, conn))
         {
-            cmd.Parameters.AddWithValue("p", "Hello world");
+            cmd.Parameters.AddWithValue("p", customer);
             await cmd.ExecuteNonQueryAsync();
         }
 
@@ -30,20 +44,20 @@ public class CustomerController : ControllerBase
 
     private readonly ILogger<WeatherForecastController> _logger;
 
-    public CustomerController(ILogger<WeatherForecastController> logger)
-    {
-        _logger = logger;
-    }
+public CustomerController(ILogger<WeatherForecastController> logger)
+{
+    _logger = logger;
+}
 
-    [HttpGet]
-    public IEnumerable<WeatherForecast> Get()
+[HttpGet]
+public IEnumerable<WeatherForecast> Get()
+{
+    return Enumerable.Range(1, 5).Select(index => new WeatherForecast
     {
-        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        {
-            Date = DateTime.Now.AddDays(index),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-        })
-        .ToArray();
-    }
+        Date = DateTime.Now.AddDays(index),
+        TemperatureC = Random.Shared.Next(-20, 55),
+        Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+    })
+    .ToArray();
+}
 }

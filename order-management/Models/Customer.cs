@@ -1,17 +1,20 @@
-namespace order_management;
-
-public class Customer
+namespace order_management.Models
 {
-    public int CustomerId { get; set; }
+    public class Customer
+    {
+        public int CustomerId { get; set; }
 
-    public string CustomerName { get; set; }
+        public string CustomerName { get; set; }
 
-    public int CustomerAddress { get; set; }
+        public string CustomerAddress { get; set; }
 
-    public int City { get; set; }
+        public string City { get; set; }
 
-    public int State { get; set; }
+        public string State { get; set; }
 
-    public int Postal_Code { get; set; }
+        public string Postal_Code { get; set; }
 
+    }
 }
+
+

@@ -1,11 +1,14 @@
-namespace order_management;
-
-public class OrderLine
+namespace order_management.Models
 {
-    public int OrderId { get; set; }
+    public class OrderLine
+    {
+        public int OrderId { get; set; }
 
-    public string ProductId { get; set; }
+        public int ProductId { get; set; }
 
-    public int OrderedQuantity { get; set; }
+        public int OrderedQuantity { get; set; }
 
+    }
 }
+
+
