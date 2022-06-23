@@ -1,4 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Data;
+using System.Data.SqlClient;
+using Npgsql;
 
 namespace order_management.Controllers;
 
@@ -6,10 +10,23 @@ namespace order_management.Controllers;
 [Route("[controller]")]
 public class CustomerController : ControllerBase
 {
-    private static readonly string[] Summaries = new[]
+    [HttpPost]
+    public static async void InsertCustomer()
     {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
+        var connString = "Host=postgressql_database;Username=admin;Password=admin;Database=SampleDatabase";
+        var command = "INSERT INTO customer (customer_id, customer_name, customer_address, city, state, postal_code) VALUES (@p)";
+
+        await using var conn = new NpgsqlConnection(connString);
+        await conn.OpenAsync();
+
+        // Insert some data
+        await using (var cmd = new NpgsqlCommand("INSERT INTO customer (customer_id, customer_name, ) VALUES (@p)", conn))
+        {
+            cmd.Parameters.AddWithValue("p", "Hello world");
+            await cmd.ExecuteNonQueryAsync();
+        }
+
+    }
 
     private readonly ILogger<WeatherForecastController> _logger;
 
