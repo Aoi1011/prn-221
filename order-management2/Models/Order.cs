@@ -3,7 +3,7 @@ namespace order_management2.Models
 
     public class Order
     {
-        public int OrderId { get; set; }
+        public long Id { get; set; }
 
         public string? OrderDate { get; set; }
 
