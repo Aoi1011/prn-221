@@ -82,6 +82,7 @@ namespace order_management2.Controllers
 
         // POST: api/OrderManagementCustomer
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // post -h Content-Type=application/json -c "{"name":"ichiro","address": "tokyo", "city": "tokyo", "state": "LA", "PostalCode": "34343434343"}"
         [HttpPost]
         public async Task<ActionResult<Customer>> PostCustomer(Customer customer)
         {
